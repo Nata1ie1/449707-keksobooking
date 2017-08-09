@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/javascript/10/user/449707).
-* Наставник: `Неизвестно`.
+* Студент: [Лагутина Наталия](https://up.htmlacademy.ru/javascript/10/user/449707).
+* Наставник: `Довженко Михаил`.
 
 ---
 
